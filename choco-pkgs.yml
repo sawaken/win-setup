@@ -1,0 +1,29 @@
+player:
+  - itunes
+  - vlc
+reader:
+  - adobereader
+disc:
+  - imgburn
+  - virtualclonedrive
+dev:
+  - ruby
+  - git
+  - atom
+vm:
+  - vagrant
+  - virtualbox
+audio:
+  - audacity
+  - tuxguitar
+screenshot:
+  - winshot
+browser:
+  - googlechrome
+filesystem:
+  - ext2fsd
+clouddrive:
+  - dropbox
+  - googledrive
+scaner:
+  - scansnapmanager
